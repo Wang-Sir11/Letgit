@@ -14,3 +14,5 @@ while 1:
     else:
             print("瞎扯淡")
 print("输入结束")
+
+
